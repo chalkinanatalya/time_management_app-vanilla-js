@@ -1,3 +1,7 @@
+import { initControl } from "./control.js";
+
 const initPomodoro = () => {
-    //some code
+    initControl();
 }
+
+initPomodoro();
